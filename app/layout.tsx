@@ -8,7 +8,7 @@ import Footer from '@/components/Home/Footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Wavedash - Next Generation Robotics & AI Solutions',
+  title: 'Wavedash ',
   description: 'Pioneering the future of robotics and artificial intelligence',
 };
 
